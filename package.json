@@ -1,0 +1,25 @@
+{
+  "name": "hepa-weather",
+  "version": "1.0.0",
+  "description": "Hepa weather microservice",
+  "main": "server/service.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bfp",
+    "bot",
+    "slack",
+    "hd",
+    "pmn",
+    "hepa",
+    "microservice"
+  ],
+  "author": "Benjamin Parker",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^6.1.0",
+    "express": "^4.14.0",
+    "superagent": "^2.3.0"
+  }
+}
